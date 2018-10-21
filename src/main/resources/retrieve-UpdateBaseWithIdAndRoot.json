@@ -1,0 +1,15 @@
+{
+  "collateralAssetDocumentReference" : "CADR8734",
+  "collateralAssetDescription" : "DomesticResidence/Manufacturing/Retail",
+  "collateralAssetUpdateResult" : "Success/Failure",
+  "collateralAssetLocation" : "221B Baker Street Kingston NewYork United States",
+  "collateralAssetType" : "Residential/Industrial/Commercial",
+  "collateralAssetProperties" : "UnderConstruction/Repair/Inhabited/Vacant",
+  "collateralAssetOwnership" : "Sole/Joint/Tenancy/Community",
+  "collateralAssetInterestedParties" : "Custodian/Insurer",
+  "collateralAssetReference" : "CARE2215",
+  "collateralAssetDocumentType" : "SecurityAgreement/CollateralAgreement/PledgeAgreement/MortageAgreement",
+  "collateralAssetJurisdiction" : "NewYork United States",
+  "collateralAssetUpdateReference" : "CAUR9659",
+  "collateralAssetTitle" : "Blossom Inc./Budding Tech Pvt Ltd"
+}

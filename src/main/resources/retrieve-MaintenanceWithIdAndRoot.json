@@ -1,0 +1,10 @@
+{
+  "collateralAssetMaintenanceSchedule" : "Monthly",
+  "collateralAssetMaintenanceSafekeepingFees" : "$200",
+  "collateralAssetReference" : "CARE2215",
+  "collateralAssetVerificationAndComplianceReference" : "CACR3426",
+  "collateralAssetMaintenanceTaskRecord" : "record of the maintenance work done",
+  "collateralAssetMaintenanceType" : "InsuranceCoverage",
+  "collateralAssetMaintenanceServiceProviderReference" : "CAMR4534",
+  "collateralAssetMaintenanceTaskReference" : "CF2209"
+}

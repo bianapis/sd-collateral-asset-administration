@@ -1,0 +1,15 @@
+{
+  "collateralAssetDocumentReference" : "CADR8734",
+  "collateralAssetDescription" : "DomesticResidence",
+  "collateralAssetUpdateResult" : "Success",
+  "collateralAssetLocation" : "221B Baker Street Kingston NewYork United States",
+  "collateralAssetType" : "Residential",
+  "collateralAssetProperties" : "UnderConstruction",
+  "collateralAssetOwnership" : "Sole",
+  "collateralAssetInterestedParties" : "Custodian",
+  "collateralAssetReference" : "CARE2215",
+  "collateralAssetDocumentType" : "SecurityAgreement",
+  "collateralAssetJurisdiction" : "NewYork United States",
+  "collateralAssetUpdateReference" : "CA75329",
+  "collateralAssetTitle" : "Blossom Inc"
+}

@@ -1,0 +1,10 @@
+{
+  "collateralAssetValuationServiceReference" : "CAVR4594",
+  "collateralAssetValuationSchedule" : "Quarter",
+  "collateralAssetReference" : "CARE2215",
+  "collateralAssetValuation" : "$3000000",
+  "collateralAssetValuationReference" : "CSVR4395",
+  "collateralAssetValuationType" : "PriceEaringsRatios",
+  "collateralAssetValuationDate" : "2018-07-31",
+  "collateralAssetLoanToValueRatio" : "121"
+}
